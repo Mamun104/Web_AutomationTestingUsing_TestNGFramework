@@ -1,0 +1,8 @@
+<suite thread-count="1" verbose="1" name="Orange HRM employee can update self information automation suite">
+    <test name="Employee can update self information">
+        <classes>
+            <class name="testrunner.UserUpdateTestRunner"/>
+        </classes>
+    </test>
+
+</suite>

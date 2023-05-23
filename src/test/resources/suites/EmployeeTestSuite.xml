@@ -1,0 +1,8 @@
+<suite thread-count="1" verbose="1" name="Orange HRM create new employee automation suite">
+    <test name="Admin can create new employee">
+        <classes>
+            <class name="testrunner.EmployeeTestRunner"/>
+        </classes>
+    </test>
+
+</suite>

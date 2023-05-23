@@ -1,0 +1,8 @@
+<suite thread-count="1" verbose="1" name="Orange HRM admin login automation suite">
+    <test name="Admin can login successfully">
+        <classes>
+            <class name="testrunner.AdminLoginTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
